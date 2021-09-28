@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeffbushdesign
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on projects related to skateboarding.
 - 📫 How to reach me: jeffbushdesign@gmail.com
 
 <!---
